@@ -68,5 +68,5 @@ python main.py
 
 ## One More Thing
 
-One thing i should mention are. Many people still asking **Who should deploy the model? Is it CC or is it ML?**
+One thing i should mention. Many people still asking **Who should deploy the model? Is it CC or is it ML?**
 > Both parties need to collaborate. Cloud Computing (CC) may not be familiar with the contents of your .h5 file, and Machine Learning (ML) may not be familiar with HTTP POST and GET requests. Therefore, it is the responsibility of both parties to deploy the model.
