@@ -33,7 +33,7 @@ Finally, I encourage you to share your capstone application with me! You can con
 - Twitter: [@kaenovama](https://twitter.com/kaenovama)
 - LinkedIn: [/in/kaenova](https://www.linkedin.com/in/kaenova)
 
-Now, you can start writing your code below the provided template. Happy coding!
+Now, you can start writing your deploying your model. Happy coding!
 
 ---
 
