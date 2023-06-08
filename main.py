@@ -36,7 +36,7 @@
 import os
 import uvicorn
 import traceback
-# import tensorflow as tf
+import tensorflow as tf
 
 from pydantic import BaseModel
 from urllib.request import Request
