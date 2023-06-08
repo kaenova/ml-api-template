@@ -6,7 +6,7 @@ I have included code examples for both text-based input and image-based input AP
 
 ## Machine Learning Setup
 
-Please prepare your model in either the `.h5` or saved model format. Place your model in the same folder as the `main.py` file. You will load your model in the code provided below. There are two options available: one for image-based input and another for text-based input. You need to complete either the `def predict_text` or `def predict_image` functions based on your model's input type.
+Please prepare your model in either the `.h5` or saved model format. Place your model in the same folder as the `main.py` file. You will load your model in the code provided below. There are two options available: one for image-based input and another for text-based input. You need to complete either the `def predict_text` or `def predict_image` functions in `main.py` based on your model's input type.
 
 ## Cloud Computing
 
@@ -63,3 +63,10 @@ pip install -r requirements.txt
 ```sh
 python main.py
 ```
+
+---
+
+## One More Thing
+
+One thing i should mention are. Many people still asking **Who should deploy the model? Is it CC or is it ML?**
+> Both parties need to collaborate. Cloud Computing (CC) may not be familiar with the contents of your .h5 file, and Machine Learning (ML) may not be familiar with HTTP POST and GET requests. Therefore, it is the responsibility of both parties to deploy the model.
